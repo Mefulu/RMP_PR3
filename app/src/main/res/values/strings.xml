@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application_pr3</string>
+    <string name="hello_message">Привет, прекрасный мир!</string>
+    <string name="hello_message2">Привет, ВОЛК!</string>
+    <string name="tap_message">Нажми на меня</string>
+    <string name="edit_message">Введите текст</string>
+</resources>
